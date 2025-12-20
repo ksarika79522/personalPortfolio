@@ -1,4 +1,4 @@
-import { Hero, About, Projects, Skills, Contact, Navigation } from '@/components/Portfolio';
+import { Hero, About, Projects, Skills, Contact, Navigation, Certifications, Experience } from '@/components/Portfolio';
 
 export default function Home() {
   return (
@@ -7,8 +7,10 @@ export default function Home() {
       <main>
         <Hero />
         <About />
+        <Experience />
         <Projects />
         <Skills />
+        <Certifications />
         <Contact />
       </main>
       <footer className="border-t border-zinc-200 py-8">
