@@ -152,7 +152,7 @@ export function Navigation() {
 // Hero Component
 export function Hero() {
   const socialLinks = [
-    { icon: Github, href: '#', label: 'https://github.com/ksarika79522' },
+    { icon: Github, href: 'https://github.com/ksarika79522', label: 'Github' },
     { icon: Linkedin, href: 'https://www.linkedin.com/in/karthik-sarika/', label: 'LinkedIn' },
     { icon: Mail, href: 'mailTo:sarika.kar23@gmail.com', label: 'Email' },
   ];
