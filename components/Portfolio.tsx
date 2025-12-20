@@ -153,7 +153,7 @@ export function Navigation() {
 export function Hero() {
   const socialLinks = [
     { icon: Github, href: '#', label: 'https://github.com/ksarika79522' },
-    { icon: Linkedin, href: 'https://www.linkedin.com/in/karthik-sarika-2ab79622b/', label: 'LinkedIn' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/karthik-sarika/', label: 'LinkedIn' },
     { icon: Mail, href: 'mailTo:sarika.kar23@gmail.com', label: 'Email' },
   ];
 
@@ -588,7 +588,7 @@ const certifications = [
     title: 'AWS Cloud Practitioner Essentials',
     issuer: 'Amazon Web Services',
     date: '2025',
-    link: 'https://www.linkedin.com/in/karthik-sarika-2ab79622b/',
+    link: 'https://www.linkedin.com/in/karthik-sarika/',
   },
   {
     title: 'IBM AI Developer Professional Certificate',
