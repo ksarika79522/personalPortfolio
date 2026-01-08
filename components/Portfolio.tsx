@@ -414,10 +414,10 @@ const projects = [
     github: 'https://github.com/ksarika79522/movie-recommendation-system',
   },
   {
-    title: 'AAPL Stock Prediction',
-    description: 'AAPL stock prediction model using LSTM neural network to predict closing prices from historical data with high accuracy.',
-    tech: ['Python', 'Jupyter', 'Pandas', 'TensorFlow'],
-    github: 'https://github.com/ksarika79522/aapl-stock-predict',
+    title: 'NBA Gameplan Simulator',
+    description: 'AI-driven simulation tool that analyzes NBA team matchups and game scenarios to generate strategic gameplan insights.',
+    tech: ['Python', 'React', 'Pandas', 'Scikit-learn'],
+    github: 'https://github.com/ksarika79522/nbagameplan-sim',
   },
   {
     title: 'Personal Portfolio',
